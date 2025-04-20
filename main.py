@@ -3,10 +3,9 @@ import os
 import re
 import time
 
-
 def load_file(filepath):
     filelist = []
-    for root, dirnames, filenames in os.walk(filepath):
+    for root, filenames in os.walk(filepath):
         for filename in filenames:
             if filename.endswith(tuple([".json", ".mcfunction"])):
                 filelist.append(os.path.join(root, filename))
@@ -16,6 +15,7 @@ def load_file(filepath):
 def load_lang(lang_file):
     with open(lang_file, 'r', encoding='utf-8') as f:
         content = f.read()
+        content = re.sub(r'^\s*#.*\n', '', content, flags=re.MULTILINE)
     return json.loads(content)
 
 
@@ -58,7 +58,7 @@ def replace_str(keys, con, lang):
 if __name__ == '__main__':
     start_time = time.time()
 
-    files = load_file('BlazeandCavesAdvancementsPack\data')
+    files = load_file('pack\\data')
     langC = load_lang('zh_cn.json')
     modify(files, langC)
 

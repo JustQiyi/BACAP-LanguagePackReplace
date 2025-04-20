@@ -1,2 +1,5 @@
-# BACAP-LanguagePackReplace
-Language translation tools for [BlazeandCavesAdvancementsPack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
+### BACAP 数据包语言文件替换工具
+为了使服务器玩家无需自行安装语言包即可使用中文的数据包，我修补了这个工具。
+
+#### 如何使用?
+将语言文件拖入脚本文件同级目录，将数据包解压至pack文件夹中，然后运行 main.py
