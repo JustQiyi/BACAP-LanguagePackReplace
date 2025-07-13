@@ -31,6 +31,7 @@
 
     # 汉化者2023.5.15标注：本次更新除翻译新译名之外，在细节上同步了Minecraft Wiki的译名标准化，调整了部分进度的译名。
     # 汉化者2024.12.5标注：近期鸣谢(风之方向标 Acikizape)
+    # 汉化者2025.6.15标注：群里有舞萌吃
     # Adventuring tab as of 1.3
     
     "Adventuring Time": "探索的时光",
@@ -191,13 +192,13 @@
     "Craft an item frame for displaying your items": "合成物品展示框来展示你的物品",
     
     "Electric!": "电气！",
-    "Light up the area with some redstone lamps": "用红石灯照明",
+    "Light up the area with some redstone lamps": "用红石灯照亮一片区域",
     
     "En Garde": "亡羊补牢",
     "Erect some fencing": "建造一些栅栏",
     
     "Expensive!": "奢华！",
-    "Light up the area with some sea lanterns": "用海晶灯照明",
+    "Light up the area with some sea lanterns": "用海晶灯照亮一片区域",
     
     "Fake fortress": "伪造的下界要塞",
     "Craft or collect all forms of nether brick and red nether brick": "合成或收集所有类型的下界砖块，红色下界砖块",
@@ -209,19 +210,19 @@
     "Craft or collect normal, cracked, mossy and chiseled stone bricks": "合成或收集石砖，裂石砖，苔石砖和雕纹石砖",
     
     "Fluorescent!": "荧光！",
-    "Light up the area with some end rods": "用末地烛照明",
+    "Light up the area with some end rods": "用末地烛照亮一片区域",
     
     "Getting Wood": "获得木头",
     "Attack a tree until a block of wood pops out": "摧毁树木直到跳出一个木头方块",
     
     "Glowing!": "晶莹！",
-    "Light up the area with glowstone": "用荧石照明",
+    "Light up the area with glowstone": "用荧石照亮一片区域",
     
     "Greek Art Decor": "希腊艺术风格",
     "Craft all forms of quartz blocks": "合成所有种类的石英块",
     
     "Halloween!": "万圣节！",
-    "Light up the area with jack o'lanterns!": "用南瓜灯照明！",
+    "Light up the area with jack o'lanterns!": "用南瓜灯照亮一片区域！",
     
     "It's a Sign!": "注意！这是块告示牌！",
     "Craft and place a sign": "合成并放置一块告示牌",
@@ -281,7 +282,7 @@
     "Build some cobblestone walls": "建造一些圆石墙",
     
     "Torched!": "点燃火炬！",
-    "Light up the area with some torches": "用火把照明",
+    "Light up the area with some torches": "用火把照亮一片区域",
     
     "Translucence": "若隐若现",
     "Craft all 16 colors of stained glass": "合成所有16种颜色的染色玻璃",
@@ -1195,7 +1196,7 @@
     "Catch a fish... without a fishing rod!": "不用钓鱼竿抓住一条鱼！",
     
     "They're breeding like rabbits!": "繁殖得跟兔子一样快！",
-    "Breed two bunnies together": "繁殖两只小兔子",
+    "Breed two bunnies together": "让两只兔子繁殖",
     
     "Tickle Time!": "挠痒痒时间！",
     "Pluck some feathers from a chicken": "从鸡身上扯下一些羽毛",
@@ -1660,7 +1661,7 @@
     "Craft every type of wall": "合成每一种墙",
     
     "Festival of Lights": "节庆之光",
-    "Light up the area using a lantern": "放置一个灯笼",
+    "Light up the area using a lantern": "用灯笼照亮一片区域",
     
     "Logos": "商标",
     "Craft all the special banner patterns": "制作所有的特殊旗帜图案",
@@ -1760,7 +1761,7 @@
     "Kill a baby zombie": "杀死一只幼年僵尸",
     
     "Trick or Treat!": "不给糖就捣乱",
-    "Defeat a mob wearing a pumpkin": "杀死一只佩戴南瓜灯的生物",
+    "Defeat a mob wearing a pumpkin": "杀死一只佩戴雕刻南瓜的生物",
     
     "Two Birds, One Arrow": "一箭双雕",
     "Kill two Phantoms with a piercing arrow": "用一支穿透箭射杀两只幻翼",
@@ -1908,7 +1909,7 @@
     "Kill a raid captain. Maybe consider staying away from villages for the time being...": "杀死一名袭击队长。也许考虑在接下来一段时间内远离村庄……",
     
     "It's So Beast-Like!": "就像一只发狂了的野兽！",
-    "Slay a Ravager in a raid": "杀死一只劫掠兽",
+    "Slay a Ravager in a raid": "在一场袭击中杀死一只劫掠兽",
     
     "Lilypad Hatter": "头顶荷叶",
     "Breed and trade with a swamp villager": "繁育并与一个沼泽村民交易",
@@ -1941,7 +1942,7 @@
     "Trade with a Wandering Trader while he is invisible": "在流浪商人隐形时和他交易",
     
     "Stockbroker": "股神",
-    "Trade with every profession from every biome type": "在每一种生物群系和每一种不同的村民交易",
+    "Trade with every profession from every biome type": "与全部不同生物群系的所有职业村民交易",
     
     "The Tribal Villagers": "部落村庄",
     "Breed and trade with a jungle villager": "繁育并与一个丛林村民交易",
@@ -2035,7 +2036,7 @@
     "Fill a cauldron using a bucket": "用水桶灌满一个炼药锅",
     
     "Washing Machine": "洗衣机",
-    "Use a cauldron to clean leather armor, a banner and a shulker box": "用炼药锅清洗皮革外套，一面旗帜和一个潜影盒",
+    "Use a cauldron to clean leather armor, a banner and a shulker box": "用炼药锅清洗皮革盔甲，一面旗帜和一个潜影盒",
     
     
     
@@ -2759,7 +2760,7 @@
     "Give a piglin elytra then kill it" : "给猪灵一个鞘翅，然后杀了它",
     
     "Electrifying Alliance" : "“震”奋的同盟",
-    "Smite a ghast with lightning from the Overworld’s heavens" : "把一只恶魂从下界救出，将其安全地带到主世界……然后用雷劈死它。",
+    "Smite a ghast with lightning from the Overworld’s heavens" : "把一只恶魂从下界救出，将其安全地带到主世界……然后对它雷击",
     
     "Time to Fire Back" : "是时候回击了",
     "Craft a stack of fire charges" : "合成一组火焰弹",
@@ -3520,7 +3521,7 @@
     "Obtain a fully oxidized Block of Copper": "获得一个氧化的铜块",
     
     "Sly Copper: The Copper Heist": "《炼铜癖大冒险：铜块大盗》",
-    "Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "收集处于氧化阶段的铜块，切制铜块，切制铜台阶与切制铜楼梯，包括涂过蜡的方块各一组",
+    "Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "收集处于各种阶段（包括涂过蜡的）的铜类制品各一组",
     
     "G.I. Geode": "深入晶洞",
     "Find an Amethyst Geode and mine an Amethyst Cluster": "找到一处紫晶洞并挖取一个紫水晶簇",
@@ -4886,7 +4887,7 @@
     "A preserved piece of stone from the lands that existed before Beta 1.8": "这是从自 Beta 1.8 版本之前就存在的土地的一块保存完好的石头",
     
     ## All advancements added in version 1.15 are here
-    "Nerds Never Die": "猪神永不消亡",
+    "Nerds Never Die": "它是国王吗？不是，它是个传奇。",
     "Name a Piglin Brute 'Technoblade'": "将一只猪灵蛮兵命名为“Technoblade”",
     
     "And make it double!": "好事成双",
@@ -5641,7 +5642,156 @@
 
 
 
+    # All advancements added in version 1.19 are here
+    "Booshes": "我喜欢纯天然的吉利服",
+    "Collect some Bushes": "收集一些灌木丛",
+    
+    "Certified Spud Chomper": "权威马铃薯杀手",
+    "Eat 100 Poisonous Potatoes": "食用100个毒马铃薯",
+    
+    "You can't take the sky from me": "因为你抢不走我的天空",
+    "Obtain a Firefly Bush": "获得一个萤火虫灌木丛",
+    
+    
+    "Piglet’s BIG Advancement": "小猪的 大 进度",
+    "Breed two pigs to get this little piggy": "让两只猪繁殖，生出这只小猪仔",
+    
+    "The Three Little Pigs": "三只小猪",
+    "Unite all Pig variants in one place": "将所有种类的猪聚集到同一个地方",
+    
+    "Beef Moover": "牛肉的搬运工",
+    "Unite all Cow variants in one place": "将所有种类的牛聚集到同一个地方",
+    
+    "Omelette": "鸡蛋灌饼",
+    "Collect a stack of all kinds of Chicken Eggs": "收集每种鸡蛋各一组",
+    
+    "Chick Buffet": "炸鸡自助餐",
+    "Unite all Chicken variants in one place": "将所有种类的鸡聚集到同一个地方",
+    
+    
+    "Heart Transplanter": "移心接木",
+    "Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks": "将嘎枝之心以正确朝向放在两个苍白橡木原木方块中间",
 
-    # All advancements, trophies and other text strings that get added in versions 1.18 or later will be added down here for easy locating by translators who wish to update their language file
-    "__END OF FILE__": "__END OF FILE__"
+    "Le creak, c'est chic": "我们热爱嘎枝，我们是新潮流",
+    "Place fifty Creaking Hearts and inundate yourself with an absolute nightmare": "放置五十个嘎枝之心，让自己陷入彻底的噩梦",
+
+    
+    "All Around the World": "环游世界",
+    "Buy every kind of Explorer Map that can be bought from Cartographers": "从制图师处购买所有类型的探险家地图",
+
+    
+    "Look Out!": "小心点！",
+    "Zoom in on a Creeper with a Spyglass from less than a block away": "用望远镜在不足一格的距离观察苦力怕",
+
+    "Absolute Cinema": "绝对“大片”感",
+    "Defeat a Chicken Jockey in a Woodland Mansion": "在林地府邸中击败一只鸡骑士（我保证不会扔爆米花）",
+
+    
+    "Splatfest": "喷射祭典",
+    "Have at least 100 of each type of Chicken Egg fired in the air at once within 48 blocks of you": "在你周围48格范围内，一次性向空中发射至少100枚每种类型的鸡蛋",
+
+    
+    "Oh baby a triple!": "哦，宝贝儿！三连击！",
+    "Kill three mobs at the same time using a Multishot Crossbow from at least 30 blocks away": "用多重射击弩在至少30格外的距离同时击杀三个生物。",
+
+    
+    "Test Flight": "试飞之旅",
+    "Ride 100m on a Happy Ghast": "骑乘快乐恶魂飞行100米",
+    
+    "Who Needs Elytra?": "还要啥鞘翅啊？",
+    "Ride 1km on a Happy Ghast": "骑乘快乐恶魂飞行1公里",
+    
+    "Big Blimp Enthusiast": "飞艇狂热者",
+    "Ride 10km on a Happy Ghast": "骑乘快乐恶魂飞行10公里",
+
+    
+    "Stay Hydrated": "补水保湿！",
+    "Place a Dried Ghast block into water": "将失水恶魂方块放在水中",
+
+    "Snow Cone?": "冰雪甜筒？",
+    "Feed snowballs to a Ghastling": "喂雪球给小恶魂",
+
+    "Hot Air Balloon": "热气球之旅",
+    "Craft a Harness, place it on a Happy Ghast, and ride it": "制作一个挽具，套在快乐恶魂上并骑上它",
+
+    "Midport Village": "中港村",
+    "Ride a Happy Ghast into a village": "骑着快乐恶魂进入一个村庄",
+
+    "Lead Zeppelin": "牵引齐柏林",
+    "Attach a Boat to a Happy Ghast using a Lead": "用拴绳将船绑在快乐恶魂上",
+
+    "Pillow Fight": "别样的枕头大战",
+    "Slay a Ghast while riding a Happy Ghast": "骑着快乐恶魂击杀另一只恶魂",
+
+    "Collateral Damage": "间接性伤害",
+    "Deflect a Ghast fireball into a Happy Ghast": "将恶魂的火球反弹击中快乐恶魂",
+
+    
+    "String Shot": "春蚕吐丝",
+    "Shoot a mob with an Arrow of Weaving": "用盘丝之箭射击一只生物",
+
+    
+    "Why do I hear boss music?": "为什么打BOSS没一个专属BGM呢？",
+    "Play a Music Disc while fighting the Ender Dragon": "与末影龙搏斗时播放音乐唱片",
+
+    "Unstoppable Force vs Immovable Object": "“无坚不摧之力”对抗“无法撼动之物”",
+    "Hit a Shulker with a thrown Wind Charge": "用投掷的风弹击中潜影贝",
+
+    "You're doing it wrong": "你这姿势不对",
+    "Kill a mob with a Mace while levitating upwards": "在向上漂浮时用重锤击杀一只生物",
+
+    
+    "Let's take it up a notch": "把Notch举高高",
+    "Collect 64 Enchanted Golden Apples": "收集64个附魔金苹果",
+
+    "At the Rim of the Sky": "苍穹之陲",
+    "Slay the Ender Dragon in one hit using a Mace": "用重锤一击击杀末影龙",
+
+    
+    # Trophies added in 1.19
+    "Serenity": "宁静号",
+    "A Firefly-class mid-bulk transport ship, called home by her motley crew": "一艘萤火虫级中型货运飞船，被她那五花八门的船员们视为家园",
+    
+    "Mega Spud": "超级马铃薯怪",
+    "Champion of the colosseums of the Poisonous Potato dimension": "毒马铃薯维度角斗场的冠军",
+    
+    "Lava Chicken": "熔岩烤鸡",
+    "You ever wonder what happens when you mix hot lava and chicken?": "你有没有想过把炽热的熔岩和鸡混在一起会发生什么？",
+
+    "Fogg's Pocket Watch": "福格的怀表",
+    "Now try to do it in 80 days": "现在试着在80天内完成它吧",
+    
+    "Uru": "乌鲁金属",
+    "The most durable metal in the universe, forged in the heart of a dying star": "宇宙中最坚固的金属，锻造于垂死恒星的核心",
+    
+    "M.O.A.B.": "M.O.A.B.",
+    "M.O.A.B stands for Massive Ornary Air Blimp, not Mother Of All Bloons": "M.O.A.B. 的意思是“巨大顽固空中飞艇(Massive Ornary Air Blimp)”，而不是“所有气球之母(Mother Of All Bloons)”",
+    "Either way, it brings pain": "不管是哪种意思，它都带来痛苦",
+    
+    "Mini Ghast": "迷你恶魂",
+    "Only able to hover just above the ground": "只能在地面上方稍作悬浮",
+    "Uses its tears to knock players off ledges": "用它的眼泪把玩家击落悬崖",
+    
+    "Shiny Netherite Grade Ender Dragon Mob Trophy": "闪闪发光的下界合金等级末影龙生物奖杯",
+    "As a child you yearned for the Craftmines... perhaps a bit too much": "你小时候渴望进入合成矿井……也许渴望得有点过头了",
+    
+    "Notch's Head": "Notch 的头",
+    "The original creator": "最初的创造者",
+    
+    
+    # Description changes in 1.19
+    # Anti-Air
+    "Shoot down a phantom with an arrow from 30 blocks away": "用箭从三十格远的距离外射下幻翼",
+    
+    # Justice
+    "Kill a Pillager, Vindicator, Evoker, Ravager and Witch with a single crossbow arrow": "用一支弩箭同时击杀掠夺者、卫道士、唤魔者、劫掠兽和女巫",
+    
+    
+    # Renamed advancement in 1.19
+    "Dragon vs Wither: The Pre-Sequel": "末影龙大战凋灵：前传",
+    
+    
+    
+    # All advancements, trophies and other text strings that get added in versions 1.19 or later will be added down here for easy locating by translators who wish to update their language file
+    "__END OF FILE__": "__文件末尾__"
 }

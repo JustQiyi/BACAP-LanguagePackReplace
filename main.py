@@ -5,9 +5,9 @@ import time
 
 def load_file(filepath):
     filelist = []
-    for root, filenames in os.walk(filepath):
-        for filename in filenames:
-            if filename.endswith(tuple([".json", ".mcfunction"])):
+    for root, _, files in os.walk(filepath):
+        for filename in files:
+            if filename.endswith((".json", ".mcfunction")):
                 filelist.append(os.path.join(root, filename))
     return filelist
 
